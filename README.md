@@ -1,1 +1,1 @@
-Hello, my name is Nora! I am currently using Github to practice MLOPS.
+Hello, my name is Nora. I am a Senior Data Scientist / ML engineer.
